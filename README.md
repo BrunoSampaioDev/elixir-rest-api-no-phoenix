@@ -66,5 +66,5 @@ Mas como forma de aprendizado, <br/> decidi construir essa API REST sem usar o P
 <div align="center">
   <h1>Open Source</h1>
   <sub>Copyright © 2022-present, Bruno Sampaio.</sub>
-  <p> <a href="https://github.com/BrunoSampaioDev/space-news/blob/main/LICENSE">is MIT licensed 💖</a></p>
+  <p> <a href="https://github.com/BrunoSampaioDev/elixir-rest-api-no-phoenix/blob/main/LICENSE.md">is MIT licensed 💖</a></p>
 </div>
